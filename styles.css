@@ -1,0 +1,124 @@
+.wire{
+    background-color: 	#ffe5ee;
+
+}
+
+.malcolm{
+    color: 	#d4ffea;
+    text-shadow: 1px 1px 1px #000000;
+    font-weight: bolder;
+}
+
+.malcolm:visited{
+    color: 	#f1bcff;
+}
+
+.malcolm:hover{
+    color: 	#dbdcff;
+}
+
+#havana{
+    border: 3px dotted black
+}
+
+#saira{
+    text-align: center;
+}
+
+.bach{
+    background-color: #f1bcff;
+}
+
+.rico{
+    background-color: #f1bcff;
+}
+
+#copacabana{
+    text-align: center;
+    word-spacing: 20px;
+}
+
+#boys{
+    border: 3px solid black;
+    display: grid;
+    grid-template: 1fr 1fr 1fr/ 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;;
+    justify-content: center;
+}
+
+#earrings{
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+#read{
+    grid-area: 3 / 1 / span 1 / span 1;
+    font-weight: bold;
+}
+
+#about_it{
+    grid-area: 3 / 2 / span 1 / span 1;
+}
+
+#ms_jackson{
+    grid-area: 3 / 3;
+}
+
+#feelings{
+    text-decoration: underline;
+}
+
+#rhapsody{
+    width: 250px;
+    height: 250px;
+    overflow: auto;
+    border: 3px dotted black;
+    font-weight: bold;
+}
+
+#bohemian{
+    font-weight: bold;
+}
+
+#bomba{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#black_sheep{
+    text-decoration: underline;
+}
+#therapy{
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+}
+
+#mouse{
+    display: flex;
+    justify-content: center;
+}
+
+#mine{
+    display: flex;
+    justify-content: center;
+    border: 3px solid black;
+    width: 50%;
+    padding: 30px;
+}
+
+#villain{
+    border: 3px dotted black
+}
+
+#starving{
+    border: 3px dotted black;
+}
+
+
+
+
+
+
+
+
