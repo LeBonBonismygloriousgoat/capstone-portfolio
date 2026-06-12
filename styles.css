@@ -25,12 +25,12 @@
     text-align: center;
 }
 
-.bach{
-    background-color: #f1bcff;
+.rico{
+    text-decoration: underline;
 }
 
-.rico{
-    background-color: #f1bcff;
+.bach{
+    border: 3px dotted black;
 }
 
 #copacabana{
@@ -39,6 +39,7 @@
 }
 
 #boys{
+    margin-top: 10px;
     border: 3px solid black;
     display: grid;
     grid-template: 1fr 1fr 1fr/ 1fr 1fr 1fr 1fr;
@@ -124,7 +125,7 @@
     text-decoration: underline;
 }
 
-#melting{
+.john{
     text-align: center;
     width: 500px;
     height: 500px;
@@ -137,9 +138,14 @@
     font-weight: bold;
 }
 
-#my_dear{
+.fire{
     text-align: center;
 }
+
+.quantum{
+    border: 3px dotted black;
+}
+
 
 
 
